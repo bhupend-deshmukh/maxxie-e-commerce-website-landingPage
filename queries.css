@@ -1,0 +1,50 @@
+
+@media(max-width:1110px){
+    .home-side{
+        display: none !important;
+    }
+}
+
+@media(max-width:775px){
+    .inp-icon{
+        display: none !important;
+    }
+    .select-option{
+        display: none !important;
+    }   
+    .meadia-class{
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .what-we-offer{
+        width: 100% !important;
+    }
+    .main-img img{
+        height: auto !important;
+    }
+    .img-down-text h2{
+        font-size: 1rem;
+    }
+    .top-header{
+        display: none !important;
+    }
+    .money-text{
+        width: 100% !important;
+    }
+    .maxxie-feature{
+        text-align: center;
+        display: flex !important;
+        flex-direction: column !important;
+    }
+    .maxxie-top{
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+    .inp-box{
+      margin-right: 16px !important;  
+    }
+    .container-fluid{
+        padding: 0 !important;
+    }
+}

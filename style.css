@@ -1,0 +1,134 @@
+body{
+    height: auto;
+    width: auto;
+}
+
+.top-header{
+    background-color: #f7f7f7;
+}
+
+.top-header{
+    height: 2.5rem;
+    color: grey;
+}
+
+.store-locator select{
+    width: fit-content;
+    cursor: pointer;
+    color: grey;
+    background-color: #f7f7f7;
+}
+.hr-line{
+    color:rgb(196, 189, 189);
+}
+
+.main-img img{
+    cursor: pointer;
+    width: 100%;
+    height: 40rem;
+}
+.store-text p{
+    cursor: pointer;
+}
+.contact-details{
+    cursor: pointer;
+}
+.img-down-text span{
+    color: gray;
+}
+
+.img-down-line{
+    display: flex;
+    gap: 1rem;
+}
+.img-down-line div:nth-child(1){
+    width: 2.5rem;
+    height: 2px;
+    background-color: rgb(226, 217, 217);
+}
+
+.img-down-line div:nth-child(2){
+    width: 2.5rem;
+    height: 2px;
+    background-color: gray;
+}
+
+.img-down-line div:nth-child(3){
+    width: 2.5rem;
+    height: 2px;
+    background-color: rgb(226, 217, 217);
+}
+
+.all-footer{
+    background-color: #f7f7f7;
+}
+
+.what-we-offer div:nth-child(2){
+    margin-top: 1rem;
+    width: 2.5rem;
+    height: 2px;
+    background-color: black;
+}
+.footer{
+    background-color: #f7f7f7;
+}
+
+.money-logo img{
+    width: 3.2rem;
+}
+
+.money-guarantee{
+    background-color: white;
+}
+.what-we-desc p{
+    color: rgb(184, 171, 171);
+    font-size: 1rem;
+}
+.input-group{
+    border: 3px solid;
+    background-color: #f7f7f7 !important;
+}
+
+.maxxie-feature p{
+    color: rgb(184, 171, 171);
+}
+
+.input-group input{
+    background-color: #f7f7f7;
+    width: fit-content !important;
+    outline: none !important;
+}
+.input-group span{
+    background-color: #f7f7f7;
+}
+.top-header{
+    font-size: .8rem;
+}
+
+.collection p{
+    cursor: pointer;
+    font-size: .8rem !important;
+}
+.maxxie-logo p{
+    cursor: pointer;
+    font-size: 2rem;
+}
+.input-group{
+    width: auto !important;
+}
+.home-icon{
+    cursor: pointer;
+}
+.maxxie-middle{
+    cursor: pointer;
+}
+.maxxie-end{
+    cursor: pointer;
+}
+/* .slide-text span{
+    color: grey;
+}
+
+.slide-btn{
+    margin-top: 45rem;
+} */
